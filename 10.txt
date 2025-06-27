@@ -1,12 +1,17 @@
 You will receive 10 Accounts in the format: 
-<b>accounts_10.txt.</b>
+     <b>accounts_10.txt.</b>
+<a href="https://t.me/darkestmarketbot?start=example">Check this example file</a>
 You need to send amount: 
-<i>5 USDT - transaction fee(1 USDT) ~ we cover the transaction fee.</i>
+     5.00 USDT - 1.00 USDT
+     <i>we cover the 1 USDT transaction fee.</i>
 Your total send amount: 
-<b>4 USDT</b>
-Select network <b>Tron (TRC-20)</b>. 
-We strive to send our clients the fresh sorted fullz within 5 minutes after payment confirmation.
-<i>We are not liable for the loss of funds sent to a wrong network</i>.
+     <b>4.00 USDT</b>
+Select network 
+     <b>Tron (TRC-20)</b>. 
+<i>We strive to send our clients the fresh sorted fullz within 5 minutes after payment confirmation.</i>
+     <i>We are not liable for the 
+     loss of funds sent to a wrong 
+     network</i>.
 
 <b>Summary:</b>
 4 USDT to Tron (TRC-20) address:
