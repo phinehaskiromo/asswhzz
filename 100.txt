@@ -1,1 +1,12 @@
-⏳ 100 Accounts
+You will receive 100 Accounts in the format: 
+<b>accounts_100.txt.</b>
+You need to send amount: 
+<i>24.99 USDT - transaction fee(1 USDT) ~ we cover the transaction fee.</i>
+Your total send amount: 
+<b>23.99 USDT</b>
+Select network <b>Tron (TRC-20)</b>. 
+We strive to send our clients the fresh sorted fullz within 5 minutes after payment confirmation.
+<i>We are not liable for the loss of funds sent to a wrong network</i>.
+
+<b>Summary:</b>
+23.99 USDT to Tron (TRC-20) address:
