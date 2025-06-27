@@ -1,6 +1,5 @@
 You will receive 10 Accounts in the format: 
      <b>accounts_10.txt.</b>
-<a href="https://t.me/darkestmarketbot?start=example">Check this example file</a>
 You need to send amount: 
      5.00 USDT - 1.00 USDT
      <i>we cover the 1 USDT transaction fee.</i>
