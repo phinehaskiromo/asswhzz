@@ -1,1 +1,7 @@
-⏳ 10 Accounts
+You will receive 10 Accounts in the format: <b>accounts_10.txt.</b>
+You need to send amount: $5 - transaction fee($1) ~ we cover the transaction fee.
+Your total send amount: <b>$4</b>
+You need to only select network Tron (TRC-20). We are not liable for the loss of funds sent to a wrong network.
+
+Summary:
+4 USDT to Tron (TRC-20) address:
